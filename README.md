@@ -1,6 +1,6 @@
 # The Future of Mobile: Native vs Progressive Web Apps
 
-*By Craig Buckler*
+
 
 This presentation will be given on 8 October 2016 at the [TechExeter conference](http://conference.techexeter.uk/).
 
